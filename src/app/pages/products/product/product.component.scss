@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 1rem;
+  max-width: 25rem;
+  min-height: 15rem;
+  padding: 0.5em;
+}
+
+.mat-card-title {
+  line-height: 1.2;
+  padding: 8px;
+}
+mat-card-content{
+  padding: 0 8px;
+}
+
+
+button {
+  width: 100%;
+}
