@@ -65,7 +65,7 @@
       "price": 5,
       "description": "En Hackeando del cerebro de tus compradores, Corti nos revela cómo muchas compañías crean productos digitales o procesos de venta capaces de conectar con la psicología del comprador.",
       "categoryId": 1,
-      "stock": -20
+      "stock": -23
     },
     {
       "id": 3,
@@ -81,7 +81,7 @@
       "price": 19,
       "description": "Ideal for Android smartphones and tablets, and MIL cameras. SanDisk Memory Zone app for easy file management (Download and Installation Required).",
       "categoryId": 2,
-      "stock": 6
+      "stock": 4
     },
     {
       "id": 5,
@@ -97,7 +97,7 @@
       "price": 7,
       "description": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)",
       "categoryId": 2,
-      "stock": 9
+      "stock": 8
     },
     {
       "id": 7,
@@ -164,6 +164,27 @@
       "date": "2/13/2023",
       "isDelivery": true,
       "id": 9
+    },
+    {
+      "name": "Joaquin Metayer",
+      "store": {
+        "id": 3,
+        "name": "Chambers and West Broadway",
+        "address": "125 Chambers Street",
+        "city": "New York",
+        "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+      },
+      "date": "2/18/2023",
+      "isDelivery": false,
+      "id": 10
+    },
+    {
+      "name": "Joaquin Metayer",
+      "shippingAddress": "",
+      "city": "",
+      "date": "2/18/2023",
+      "isDelivery": true,
+      "id": 11
     }
   ],
   "detailsOrders": [
@@ -212,6 +233,16 @@
       "details": [],
       "orderId": 9,
       "id": 9
+    },
+    {
+      "details": [],
+      "orderId": 10,
+      "id": 10
+    },
+    {
+      "details": [],
+      "orderId": 11,
+      "id": 11
     }
   ]
 }

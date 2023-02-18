@@ -1,27 +1,21 @@
 # My Store Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+Simple Anuglar store.
 
-## Development server
+Run using:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+$ npm run serverAPI
+$ ng serve
 
-## Code scaffolding
+View:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="./src/app/assets/Screenshot 2023-02-18 at 16.14.44.png">
 
-## Build
+<img src="./src/app/assets/Screenshot 2023-02-18 at 16.14.55.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img src="./src/app/assets/Screenshot 2023-02-18 at 16.15.01.png">
 
-## Running unit tests
+<img src="./src/app/assets/Screenshot 2023-02-18 at 16.15.13.png">
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img src="./src/app/assets/Screenshot 2023-02-18 at 16.16.19.png">
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
