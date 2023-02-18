@@ -65,7 +65,7 @@
       "price": 5,
       "description": "En Hackeando del cerebro de tus compradores, Corti nos revela cómo muchas compañías crean productos digitales o procesos de venta capaces de conectar con la psicología del comprador.",
       "categoryId": 1,
-      "stock": -19
+      "stock": -20
     },
     {
       "id": 3,
@@ -156,6 +156,14 @@
       "date": "1/24/2023",
       "isDelivery": true,
       "id": 8
+    },
+    {
+      "name": "Joaquin Metayer",
+      "shippingAddress": "",
+      "city": "",
+      "date": "2/13/2023",
+      "isDelivery": true,
+      "id": 9
     }
   ],
   "detailsOrders": [
@@ -199,6 +207,11 @@
       "details": [],
       "orderId": 8,
       "id": 8
+    },
+    {
+      "details": [],
+      "orderId": 9,
+      "id": 9
     }
   ]
 }

@@ -12,7 +12,5 @@ export class DetailsComponent implements OnInit {
 
   constructor(private shoppingCartSvc: ShoppingCartService) { }
 
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void { }
 }
